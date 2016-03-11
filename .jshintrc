@@ -1,0 +1,9 @@
+{
+  "browser": true,
+  "camelcase": true,
+  "esnext": true,
+  "indent": 2,
+  "latedef": false,
+  "newcap": true,
+  "quotmark": "double"
+}
